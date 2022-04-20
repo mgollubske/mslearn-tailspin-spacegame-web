@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
@@ -9,6 +9,6 @@
     <Folder Include="wwwroot\images\avatars\" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0-CI-20220420-180025" />
+    <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="version 1.0.0-CI-20220420-180025" />
   </ItemGroup>
 </Project>
